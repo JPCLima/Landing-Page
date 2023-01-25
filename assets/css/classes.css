@@ -41,3 +41,9 @@
     transform: translate(3%, 3%);
     transform: scale(1.2) rotate(3deg);
 }
+
+
+.responsive-table {
+    overflow: hidden;
+    overflow-x: auto;
+  }
