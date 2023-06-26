@@ -33,3 +33,15 @@ cd Landing-Page
 ```
 
 3. Open the `index.html` file in a web browser to view the landing page.
+
+## Screenshoots
+
+![](assets/img/Screenshot_1.png)
+
+![](assets/img/Screenshot_2.png)
+
+![](assets/img/Screenshot_3.png)
+
+![](assets/img/Screenshot_4.png)
+
+![](assets/img/Screenshot_5.png)
